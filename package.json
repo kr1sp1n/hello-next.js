@@ -1,0 +1,17 @@
+{
+  "name": "hello-next.js",
+  "version": "0.0.1",
+  "description": "evaluate next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "build",
+    "start": "next start"
+  },
+  "author": "kr1sp1n <krispin@posteo.de> (http://kr1sp1n.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^1.0.0"
+  }
+}
